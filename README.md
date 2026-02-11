@@ -1,5 +1,11 @@
 # My Websites Repository
 
+My Repo:
+https://github.com/Rajan-Inklik/typescriptrepo
+
+or
+# typescriptrepo
+
 This repository contains two websites:
 
 1. [Nimit Website](https://rajan-inklik.github.io/typescriptrepo/nimit/)
