@@ -1,9 +1,8 @@
 # My Websites Repository
 
-My Repo:
-https://github.com/Rajan-Inklik/typescriptrepo
+Repo URL:
+https://rajan-inklik.github.io/typescriptrepo/
 
-or
 # typescriptrepo
 
 This repository contains two websites:
