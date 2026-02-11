@@ -8,9 +8,7 @@ https://rajan-inklik.github.io/typescriptrepo/
 This repository contains two websites:
 
 1. <a href="https://rajan-inklik.github.io/typescriptrepo/nimit/" target="_blank">Nimit Website</a>
-	[Nimit Website](https://rajan-inklik.github.io/typescriptrepo/nimit/)
 
 2. <a href="https://rajan-inklik.github.io/typescriptrepo/puneet/" target="_blank">Puneet Website</a>
-	[Puneet Website](https://rajan-inklik.github.io/typescriptrepo/puneet/)
 
 You can visit them directly using the links above.
